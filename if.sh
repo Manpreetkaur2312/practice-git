@@ -12,5 +12,6 @@ then
 else 
 then 
 echo "end"
+echo "how are you"
 
 fi
